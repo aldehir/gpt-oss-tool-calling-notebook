@@ -1,0 +1,11 @@
+trial,prompt,passed,total_calls,unnecessary_calls,expected_calls,true_positives,false_positives,false_negatives,precision,recall,f1_score
+0,"Get the weather for the following cities and tabulate the results: new york city, denver, chicago, austin, seattle",1,5,0,5,5,0,0,1.0,1.0,1.0
+1,"Get the weather for the following cities and tabulate the results: new york city, denver, chicago, austin, seattle",1,5,0,5,5,0,0,1.0,1.0,1.0
+2,"Get the weather for the following cities and tabulate the results: new york city, denver, chicago, austin, seattle",1,5,0,5,5,0,0,1.0,1.0,1.0
+3,"Get the weather for the following cities and tabulate the results: new york city, denver, chicago, austin, seattle",1,5,0,5,5,0,0,1.0,1.0,1.0
+4,"Get the weather for the following cities and tabulate the results: new york city, denver, chicago, austin, seattle",0,4,0,5,4,0,1,1.0,0.8,0.888888888888889
+5,"Get the weather for the following cities and tabulate the results: new york city, denver, chicago, austin, seattle",1,5,0,5,5,0,0,1.0,1.0,1.0
+6,"Get the weather for the following cities and tabulate the results: new york city, denver, chicago, austin, seattle",1,5,0,5,5,0,0,1.0,1.0,1.0
+7,"Get the weather for the following cities and tabulate the results: new york city, denver, chicago, austin, seattle",1,5,0,5,5,0,0,1.0,1.0,1.0
+8,"Get the weather for the following cities and tabulate the results: new york city, denver, chicago, austin, seattle",0,4,0,5,4,0,1,1.0,0.8,0.888888888888889
+9,"Get the weather for the following cities and tabulate the results: new york city, denver, chicago, austin, seattle",1,5,0,5,5,0,0,1.0,1.0,1.0

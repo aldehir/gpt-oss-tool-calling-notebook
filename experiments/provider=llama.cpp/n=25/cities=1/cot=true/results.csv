@@ -1,0 +1,26 @@
+trial,prompt,passed,total_calls,unnecessary_calls,expected_calls,true_positives,false_positives,false_negatives,precision,recall,f1_score
+0,Get the weather for the following cities and tabulate the results: new york city,1,1,0,1,1,0,0,1.0,1.0,1.0
+1,Get the weather for the following cities and tabulate the results: new york city,1,1,0,1,1,0,0,1.0,1.0,1.0
+2,Get the weather for the following cities and tabulate the results: new york city,1,1,0,1,1,0,0,1.0,1.0,1.0
+3,Get the weather for the following cities and tabulate the results: new york city,1,1,0,1,1,0,0,1.0,1.0,1.0
+4,Get the weather for the following cities and tabulate the results: new york city,1,1,0,1,1,0,0,1.0,1.0,1.0
+5,Get the weather for the following cities and tabulate the results: new york city,1,1,0,1,1,0,0,1.0,1.0,1.0
+6,Get the weather for the following cities and tabulate the results: new york city,1,1,0,1,1,0,0,1.0,1.0,1.0
+7,Get the weather for the following cities and tabulate the results: new york city,1,1,0,1,1,0,0,1.0,1.0,1.0
+8,Get the weather for the following cities and tabulate the results: new york city,1,1,0,1,1,0,0,1.0,1.0,1.0
+9,Get the weather for the following cities and tabulate the results: new york city,1,1,0,1,1,0,0,1.0,1.0,1.0
+10,Get the weather for the following cities and tabulate the results: new york city,1,1,0,1,1,0,0,1.0,1.0,1.0
+11,Get the weather for the following cities and tabulate the results: new york city,1,1,0,1,1,0,0,1.0,1.0,1.0
+12,Get the weather for the following cities and tabulate the results: new york city,1,1,0,1,1,0,0,1.0,1.0,1.0
+13,Get the weather for the following cities and tabulate the results: new york city,1,1,0,1,1,0,0,1.0,1.0,1.0
+14,Get the weather for the following cities and tabulate the results: new york city,1,1,0,1,1,0,0,1.0,1.0,1.0
+15,Get the weather for the following cities and tabulate the results: new york city,1,1,0,1,1,0,0,1.0,1.0,1.0
+16,Get the weather for the following cities and tabulate the results: new york city,1,1,0,1,1,0,0,1.0,1.0,1.0
+17,Get the weather for the following cities and tabulate the results: new york city,1,1,0,1,1,0,0,1.0,1.0,1.0
+18,Get the weather for the following cities and tabulate the results: new york city,1,1,0,1,1,0,0,1.0,1.0,1.0
+19,Get the weather for the following cities and tabulate the results: new york city,1,1,0,1,1,0,0,1.0,1.0,1.0
+20,Get the weather for the following cities and tabulate the results: new york city,1,1,0,1,1,0,0,1.0,1.0,1.0
+21,Get the weather for the following cities and tabulate the results: new york city,1,1,0,1,1,0,0,1.0,1.0,1.0
+22,Get the weather for the following cities and tabulate the results: new york city,1,1,0,1,1,0,0,1.0,1.0,1.0
+23,Get the weather for the following cities and tabulate the results: new york city,1,1,0,1,1,0,0,1.0,1.0,1.0
+24,Get the weather for the following cities and tabulate the results: new york city,1,1,0,1,1,0,0,1.0,1.0,1.0
